@@ -1,9 +1,8 @@
-# DashMLabs_test
+# DashMLabs_Front
 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Node.js; 
 - React;
 
 Projeto
@@ -16,11 +15,6 @@ To init this project:
 
     npm i (to push and install all dependencies)
 
-On the backend folder:
-
-    npm run dev
-
-  link: localhost:3333
 
 On the frontend folder:
 
